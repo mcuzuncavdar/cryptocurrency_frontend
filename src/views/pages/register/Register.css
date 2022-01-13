@@ -1,0 +1,12 @@
+.error_message_paragraph {
+  display: block;
+  width: 100%;
+  height: auto;
+  color: red;
+}
+.success_message_paragraph {
+  display: block;
+  width: 100%;
+  height: auto;
+  color: green;
+}

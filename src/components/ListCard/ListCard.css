@@ -1,0 +1,15 @@
+.card{
+  border: 1px solid #ffffff;
+}
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #ffffff;
+  border-radius: 1rem;
+}
+
+.title{
+  font-size: 1rem;
+  font-weight: bold;
+}

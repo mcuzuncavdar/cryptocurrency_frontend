@@ -1,0 +1,41 @@
+.market_caps_limit {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-top-left-radius: 0.2rem;
+  border-bottom-left-radius: 0.2rem;
+  font-size: 1rem;
+  border-left: 1px solid #999999;
+  border-top: 1px solid #999999;
+  border-bottom: 1px solid #999999;
+  height: 2.2rem;
+  line-height: 2.2rem
+}
+
+.watchlist{
+  width: 8rem;
+  height: 2.2rem;
+  border: 1px solid #999999;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+  margin-right: 1rem;
+  color: #333333;
+  text-underline: none;
+}
+
+.card-header-title {
+  font-weight: bold;
+  font-size: 1rem;
+  width: 75%;
+}
+
+.header-right-wrapper{
+  width: 25%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-direction: row;
+}
