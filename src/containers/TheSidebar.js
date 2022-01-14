@@ -32,7 +32,7 @@ const TheSidebar = () => {
           name="logo-negative"
           height={35}
         />*/}
-        Exchange
+        CryptoCurrencyApp
         <CIcon
           className="c-sidebar-brand-minimized"
           name="sygnet"

@@ -122,7 +122,7 @@ const PasswordReminder = () => {
                 <CCardBody className="text-center">
                   <div>
                     <h2>Sign up</h2>
-                    <p>Welcome to our Exchange System. You can register here</p>
+                    <p>Welcome to our CryptoCurrencyApp System. You can register here</p>
                     <NavLink to="/register" className="mt-3" style={{color: 'white'}}>
                       Register Now!
                     </NavLink>

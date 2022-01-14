@@ -6,11 +6,11 @@ const TheFooter = () => {
     <CFooter fixed={false}>
       <div>
         Mert Can
-        <span className="ml-1">&copy; 2021 Exchange.</span>
+        <span className="ml-1">&copy; 2021 CryptoCurrencyApp.</span>
       </div>
       <div className="mfs-auto">
         <span className="mr-1">Powered by</span>
-        Crypto Currency
+        CryptoCurrencyApp
       </div>
     </CFooter>
   )
